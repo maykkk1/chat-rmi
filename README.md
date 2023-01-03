@@ -1,3 +1,3 @@
 # chat-rmi
 
-Chat feito com java utilizando invocação de métodos remótos
+Chat feito com java utilizando invocação de métodos remotos
