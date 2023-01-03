@@ -1,6 +1,6 @@
 <h1>CHAT-RMI</h1>
 
-<h2>Chat feito com java utilizando RMI(Invocação de métodos remotos)</h2>
+<h2>Chat feito com java utilizando RMI(Invocação de métodos remotos) para a matéria de sistemas distribuídos.</h2>
 
 <p>
   O objetivo do projeto é possibilitar que o cliente possa enviar mensagens ao sevidor, e este repasse-as aos
